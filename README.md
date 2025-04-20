@@ -11,12 +11,11 @@
 <h1 align="center">👋 Hey there! I'm Anchal Tiwari</h1>
 <h3 align="center">🎯 Passionate Flutter Developer | Web Dev Explorer | Open Source Learner</h3>
 
-<!-- GitHub Snake Animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/achy02/achy02/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/achy02/achy02/blob/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://github.com/achy02/achy02/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
 
